@@ -1,0 +1,14 @@
+D:\C#N\LR_One\obj\Debug\net10.0\LR_One.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#N\LR_One\obj\Debug\net10.0\LR_One.AssemblyInfoInputs.cache
+D:\C#N\LR_One\obj\Debug\net10.0\LR_One.AssemblyInfo.cs
+D:\C#N\LR_One\obj\Debug\net10.0\LR_One.csproj.CoreCompileInputs.cache
+D:\C#N\LR_One\bin\Debug\net10.0\LR_One.exe
+D:\C#N\LR_One\bin\Debug\net10.0\LR_One.deps.json
+D:\C#N\LR_One\bin\Debug\net10.0\LR_One.runtimeconfig.json
+D:\C#N\LR_One\bin\Debug\net10.0\LR_One.dll
+D:\C#N\LR_One\bin\Debug\net10.0\LR_One.pdb
+D:\C#N\LR_One\obj\Debug\net10.0\LR_One.dll
+D:\C#N\LR_One\obj\Debug\net10.0\refint\LR_One.dll
+D:\C#N\LR_One\obj\Debug\net10.0\LR_One.pdb
+D:\C#N\LR_One\obj\Debug\net10.0\LR_One.genruntimeconfig.cache
+D:\C#N\LR_One\obj\Debug\net10.0\ref\LR_One.dll
