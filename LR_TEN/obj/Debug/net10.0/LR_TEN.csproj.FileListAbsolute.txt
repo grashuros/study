@@ -1,0 +1,14 @@
+D:\C#N\LR_TEN\bin\Debug\net10.0\LR_TEN.exe
+D:\C#N\LR_TEN\bin\Debug\net10.0\LR_TEN.deps.json
+D:\C#N\LR_TEN\bin\Debug\net10.0\LR_TEN.runtimeconfig.json
+D:\C#N\LR_TEN\bin\Debug\net10.0\LR_TEN.dll
+D:\C#N\LR_TEN\bin\Debug\net10.0\LR_TEN.pdb
+D:\C#N\LR_TEN\obj\Debug\net10.0\LR_TEN.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#N\LR_TEN\obj\Debug\net10.0\LR_TEN.AssemblyInfoInputs.cache
+D:\C#N\LR_TEN\obj\Debug\net10.0\LR_TEN.AssemblyInfo.cs
+D:\C#N\LR_TEN\obj\Debug\net10.0\LR_TEN.csproj.CoreCompileInputs.cache
+D:\C#N\LR_TEN\obj\Debug\net10.0\LR_TEN.dll
+D:\C#N\LR_TEN\obj\Debug\net10.0\refint\LR_TEN.dll
+D:\C#N\LR_TEN\obj\Debug\net10.0\LR_TEN.pdb
+D:\C#N\LR_TEN\obj\Debug\net10.0\LR_TEN.genruntimeconfig.cache
+D:\C#N\LR_TEN\obj\Debug\net10.0\ref\LR_TEN.dll
