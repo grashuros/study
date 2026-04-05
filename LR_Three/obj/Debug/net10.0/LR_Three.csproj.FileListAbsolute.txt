@@ -1,0 +1,14 @@
+D:\C#N\LR_Three\bin\Debug\net10.0\LR_Three.exe
+D:\C#N\LR_Three\bin\Debug\net10.0\LR_Three.deps.json
+D:\C#N\LR_Three\bin\Debug\net10.0\LR_Three.runtimeconfig.json
+D:\C#N\LR_Three\bin\Debug\net10.0\LR_Three.dll
+D:\C#N\LR_Three\bin\Debug\net10.0\LR_Three.pdb
+D:\C#N\LR_Three\obj\Debug\net10.0\LR_Three.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#N\LR_Three\obj\Debug\net10.0\LR_Three.AssemblyInfoInputs.cache
+D:\C#N\LR_Three\obj\Debug\net10.0\LR_Three.AssemblyInfo.cs
+D:\C#N\LR_Three\obj\Debug\net10.0\LR_Three.csproj.CoreCompileInputs.cache
+D:\C#N\LR_Three\obj\Debug\net10.0\LR_Three.dll
+D:\C#N\LR_Three\obj\Debug\net10.0\refint\LR_Three.dll
+D:\C#N\LR_Three\obj\Debug\net10.0\LR_Three.pdb
+D:\C#N\LR_Three\obj\Debug\net10.0\LR_Three.genruntimeconfig.cache
+D:\C#N\LR_Three\obj\Debug\net10.0\ref\LR_Three.dll
