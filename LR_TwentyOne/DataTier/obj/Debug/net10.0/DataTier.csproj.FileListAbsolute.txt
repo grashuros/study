@@ -1,0 +1,11 @@
+D:\C#N\LR_TwentyOne\DataTier\bin\Debug\net10.0\DataTier.deps.json
+D:\C#N\LR_TwentyOne\DataTier\bin\Debug\net10.0\DataTier.dll
+D:\C#N\LR_TwentyOne\DataTier\bin\Debug\net10.0\DataTier.pdb
+D:\C#N\LR_TwentyOne\DataTier\obj\Debug\net10.0\DataTier.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#N\LR_TwentyOne\DataTier\obj\Debug\net10.0\DataTier.AssemblyInfoInputs.cache
+D:\C#N\LR_TwentyOne\DataTier\obj\Debug\net10.0\DataTier.AssemblyInfo.cs
+D:\C#N\LR_TwentyOne\DataTier\obj\Debug\net10.0\DataTier.csproj.CoreCompileInputs.cache
+D:\C#N\LR_TwentyOne\DataTier\obj\Debug\net10.0\DataTier.dll
+D:\C#N\LR_TwentyOne\DataTier\obj\Debug\net10.0\refint\DataTier.dll
+D:\C#N\LR_TwentyOne\DataTier\obj\Debug\net10.0\DataTier.pdb
+D:\C#N\LR_TwentyOne\DataTier\obj\Debug\net10.0\ref\DataTier.dll

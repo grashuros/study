@@ -1,0 +1,15 @@
+D:\C#N\LR_TwentyOne\LogicTier\bin\Debug\net10.0\LogicTier.deps.json
+D:\C#N\LR_TwentyOne\LogicTier\bin\Debug\net10.0\LogicTier.dll
+D:\C#N\LR_TwentyOne\LogicTier\bin\Debug\net10.0\LogicTier.pdb
+D:\C#N\LR_TwentyOne\LogicTier\bin\Debug\net10.0\DataTier.dll
+D:\C#N\LR_TwentyOne\LogicTier\bin\Debug\net10.0\DataTier.pdb
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\LogicTier.csproj.AssemblyReference.cache
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\LogicTier.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\LogicTier.AssemblyInfoInputs.cache
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\LogicTier.AssemblyInfo.cs
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\LogicTier.csproj.CoreCompileInputs.cache
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\LogicTier.csproj.Up2Date
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\LogicTier.dll
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\refint\LogicTier.dll
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\LogicTier.pdb
+D:\C#N\LR_TwentyOne\LogicTier\obj\Debug\net10.0\ref\LogicTier.dll
