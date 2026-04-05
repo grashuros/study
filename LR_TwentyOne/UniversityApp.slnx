@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DataTier/DataTier.csproj" />
+  <Project Path="LogicTier/LogicTier.csproj" />
+  <Project Path="PresentationTier/PresentationTier.csproj" />
+</Solution>

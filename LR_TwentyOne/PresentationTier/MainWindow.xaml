@@ -1,0 +1,24 @@
+﻿<Window x:Class="PresentationTier.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{Binding Title}" Height="450" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ListBox ItemsSource="{Binding Teachers}" DisplayMemberPath="FullInfo" x:Name="TeacherList"/>
+        
+        <StackPanel Grid.Row="1" Margin="0,10">
+            <TextBlock Text="Общий фонд зарплаты:"/>
+            <TextBlock Text="{Binding TotalSalaryFund}" FontWeight="Bold"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2">
+            <TextBlock Text="Средняя по кафедрам:"/>
+            <ItemsControl ItemsSource="{Binding AvgSalaryByDept}"/>
+        </StackPanel>
+    </Grid>
+</Window>
