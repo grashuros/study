@@ -1,0 +1,14 @@
+D:\C#N\LR_Eleven\bin\Debug\net10.0\LR_Eleven.exe
+D:\C#N\LR_Eleven\bin\Debug\net10.0\LR_Eleven.deps.json
+D:\C#N\LR_Eleven\bin\Debug\net10.0\LR_Eleven.runtimeconfig.json
+D:\C#N\LR_Eleven\bin\Debug\net10.0\LR_Eleven.dll
+D:\C#N\LR_Eleven\bin\Debug\net10.0\LR_Eleven.pdb
+D:\C#N\LR_Eleven\obj\Debug\net10.0\LR_Eleven.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#N\LR_Eleven\obj\Debug\net10.0\LR_Eleven.AssemblyInfoInputs.cache
+D:\C#N\LR_Eleven\obj\Debug\net10.0\LR_Eleven.AssemblyInfo.cs
+D:\C#N\LR_Eleven\obj\Debug\net10.0\LR_Eleven.csproj.CoreCompileInputs.cache
+D:\C#N\LR_Eleven\obj\Debug\net10.0\LR_Eleven.dll
+D:\C#N\LR_Eleven\obj\Debug\net10.0\refint\LR_Eleven.dll
+D:\C#N\LR_Eleven\obj\Debug\net10.0\LR_Eleven.pdb
+D:\C#N\LR_Eleven\obj\Debug\net10.0\LR_Eleven.genruntimeconfig.cache
+D:\C#N\LR_Eleven\obj\Debug\net10.0\ref\LR_Eleven.dll
